@@ -1,0 +1,5 @@
+The dataset name is the TMDB 5000 Movie dataset
+The dataset has two datasets in one. You need to download both
+First is tmdb_5000_credits.csv,
+Second is tmdb_5000_movies.csv,
+you can use the dataset (https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
